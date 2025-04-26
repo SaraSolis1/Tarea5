@@ -21,4 +21,7 @@ Funcionalidades
 Paso 1: Ingrese el grado con el que funcionara el arbol
 Paso 2: Ingresa los datos manualmente o por medio de un documento csv
 Paso 3: Seleccione una opcion adecuada a sus demandas ya sea eliminar, buscar o generar el arbol en una visualizacion.
-Paso 4: Si selecciona el paso de visualizacion deberá escribir arbol_b o segun el nombre asignado al script como usted vaya a guardarlo a la hora de ejecutar solo de esa manera generará la grafica. 
+Paso 4: Paso 4: Si seleccionas la opción de visualización, debes ejecutar el archivo según el nombre que le hayas asignado.
+Por ejemplo, si el script se llama ![image](https://github.com/user-attachments/assets/bff8551a-0dcd-4e8f-bcac-8e8878e1ae93)
+, deberás ejecutarlo así: arbol_b. Si el archivo tiene otro nombre, asegúrate de que contenga al menos un guion bajo (_), ya que esto es necesario para que la generación gráfica funcione correctamente.
+
